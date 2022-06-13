@@ -7,8 +7,7 @@
 #include "defs.h"
 #include <cassert>
 #include <cstdlib>
-#include <nmutil/matrix.h>
-
+#include "matrix.h"
 #define GL_CHECK(call)                                                         \
     do {                                                                       \
         call;                                                                  \
